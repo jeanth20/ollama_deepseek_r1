@@ -10,4 +10,5 @@ python -m venv venv
 run streamlit application
 streamlit run .\appllm.py
 
+use pip install 'missing library'
 install all lib until it works that is all you getting :)
